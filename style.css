@@ -47,8 +47,14 @@ ul {
   font-weight: bold;
 }
 
+nav ul.rubriken li a {
+  color: #d4af37 !important;          /* Goldener Farbton */
+  text-decoration: none !important;   /* Unterstreichung entfernen */
+  font-weight: bold !important;
+}
+
 nav ul.rubriken li a:hover {
-  color: #b38f0a;          /* Dunkleres Gold beim Hover */
-  text-decoration: underline; /* Unterstreichung beim Hover */
+  color: #b38f0a !important;          /* Dunkleres Gold beim Hover */
+  text-decoration: underline !important; /* Unterstreichung beim Hover */
 }
 }
