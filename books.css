@@ -1,0 +1,23 @@
+body {
+  font-family: 'Uncial Antiqua', sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+  background: url('/eso-notes/images/IMG_9605.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  color: #f1f1f1;
+}
+
+h1 {
+  color: #d4af37; /* goldener Titel */
+  text-align: center;
+}
+
+a {
+  color: #d4af37;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  margin-top: 2rem;
+  text-align: center;
+}
