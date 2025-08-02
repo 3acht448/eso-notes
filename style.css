@@ -40,4 +40,15 @@ textarea {
 ul {
   list-style-type: disc;
   padding-left: 1.2rem;
+  
+  nav ul.rubriken li a {
+  color: #d4af37;          /* Goldener Farbton */
+  text-decoration: none;   /* Unterstreichung entfernen */
+  font-weight: bold;
+}
+
+nav ul.rubriken li a:hover {
+  color: #b38f0a;          /* Dunkleres Gold beim Hover */
+  text-decoration: underline; /* Unterstreichung beim Hover */
+}
 }
